@@ -1,0 +1,13 @@
+
+div.tlo {
+background-image: url(pattern.jpg);
+width:800px;
+height:600px;
+}
+
+img.logo {
+width:100px;
+height:100px;
+position: relative;
+right:10px;
+}
